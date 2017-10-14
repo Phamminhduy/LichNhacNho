@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nhắc Nhở Công Việc</string>
+    <string name="nh_p_ti_u">Nhập Tiêu Đề</string>
+    <string name="ti_u">Tiêu Đề</string>
+    <string name="nh_p_n_i_dung">Nhập nội dung</string>
+    <string name="n_i_dung">Nội Dung</string>
+</resources>

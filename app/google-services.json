@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521193523615",
+    "firebase_url": "https://nhacnhocongviec.firebaseio.com",
+    "project_id": "nhacnhocongviec",
+    "storage_bucket": "nhacnhocongviec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521193523615:android:d33b84c548a548ef",
+        "android_client_info": {
+          "package_name": "com.example.phamm.lichnhacnho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521193523615-u99pq1v39keq7qpo3fknn9fg7hn4b687.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVNQgwzXi4Q7uOeoa7JmW1XGyChJ-ElQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
